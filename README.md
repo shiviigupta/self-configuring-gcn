@@ -1,4 +1,4 @@
-# self-configuring-gcn
+# Self Configuring Graph Convolution Networks
 
 Node Additions and Edge Reweighting for GCNs, an implementation of this [paper](https://demalworkshop.github.io/www2021/papers/graphconvolutional.pdf).
 
