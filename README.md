@@ -7,5 +7,3 @@ Node Additions and Edge Reweighting for GCNs, an implementation of this [paper](
 ![Node Addition](img/node_add.png)
 
 ![Edge Reweighting](img/reweighting.png)
-
-![Clustering](img/clustering.png)
